@@ -20,7 +20,7 @@
             <th scope="col">Cerrado</th>
             <th scope="col">Latitud</th>
             <th scope="col">Longitud</th>
-            <th scope="col">Acciones</th>
+            <th scope="col">Editar/Borrar</th>
         </tr>
         </thead>
         <tbody>
